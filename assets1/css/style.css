@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    /* font-family: 'Nosifer', cursive; */
+    font-family: 'Press Start 2P', cursive;
+    background-color: lightpink;
+    color: blueviolet;
+      };
+
+     
+
+/* 
+     input[type=radio] {
+        text-align: center;
+        font-family: 'Nosifer', cursive;
+      }
+/*       
+.question1 {
+
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    /* font-family: 'Press Start 2P', cursive; */
+      /* }; */ 
